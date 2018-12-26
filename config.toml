@@ -52,25 +52,25 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Anton Vrdoljak"
+  role = "Mathematics Lecturer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "University of Mostar", url = "http://www.sum.ba/" }, { name = "Faculty of Civil Engineering", url = "http://gf.sum.ba/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "anton.vrdoljak@gf.sum.ba"
+  address = "Matice hrvatske b.b., Mostar, 88000, B&H"
   office_hours = """
   Monday 10:00 to 13:00\\
   Wednesday 09:00 to 10:00\\
   Otherwise email to book an appointment
   """
-  phone = "888 888 88 88"
+  phone = "+387 36 355 033"
   skype = "echo123"
   telegram = ""
   keybase = ""  # Your keybase.io username.
