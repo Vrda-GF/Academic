@@ -66,12 +66,12 @@ enableGitInfo = false
   email = "anton.vrdoljak@gf.sum.ba"
   address = "Matice hrvatske b.b., Mostar, 88000, B&H"
   office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
+  Tuesday 15:00 to 16:00\\
+  Thursday 17:30 to 18:30\\
   Otherwise email to book an appointment
   """
   phone = "+387 36 355 033"
-  skype = "echo123"
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
