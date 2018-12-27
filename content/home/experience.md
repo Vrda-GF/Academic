@@ -29,7 +29,7 @@ date_format = "January 2006"
   Responsibilities include:
   
   * Teaching
-  * Modelling
+  * Research & Modelling
   * International Cooperations
   """
 
