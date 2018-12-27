@@ -19,27 +19,36 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Lecturer"
+  company = "SUM"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Mostar, B&H"
+  date_start = "2000-01-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
+  * Teaching
   * Modelling
-  * Deploying
+  * International Cooperations
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "High school Math teacher"
+  company = "Gymnasium fra Grge Martića Mostar"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Kralja Tomislava 9a, 88000 Mostar, Bosnia and Herzegovina"
+  date_start = "1999-09-01"
+  date_end = "2000-07-15"
+  description = """High school teacher, Class teacher."""
+  
+  [[experience]]
+  title = "Primary school Math & Physics teacher"
+  company = "Primary school kralja Zvonimira Seget Donji"
+  company_url = ""
+  location = "Hrvatskih žrtava 92, 21218 Seget, Republic of Croatia"
+  date_start = "1998-09-01"
+  date_end = "1999-03-01"
+  description = """Primary school teacher, Class teacher."""
 
 +++
