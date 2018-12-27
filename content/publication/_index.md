@@ -14,6 +14,4 @@ list_format = 3
 [header]
 image = ""
 caption = ""
-
-Development of Mathematics Learning Contents with ICT Focused on Complex Number Contents of \"Interactive Lessons\"
 +++
