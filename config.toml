@@ -205,7 +205,8 @@ enableGitInfo = false
     'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
-    'Book section'  # 6
+    'Book section',  # 6
+    'Master thesis (Master of science)'  # 7
   ]
 
   # Configuration of talk pages.
