@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Mathematics",
+    "Mathematics Education",
+    "Applied Mathematics",
+    "Engineering",
+    "Computer Science"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Mathematics"
+  institution = "University of Sarajevo – Sarajevo, B&H"
+  year = –
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MSc in Mathematics Education"
+  institution = "University of East Sarajevo – East Sarajevo, B&H"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Mathematics and Physics Education"
+  institution = "University of Split – Split, Croatia"
+  year = 1999
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Motivating and talented Math Lecturer driven to inspire students to pursue academic and personal excellence. Flexible and organized professional with more than 15 years of teaching expertise with an unparallel ability to explain complicated mathematical concepts in an easily understandable manner.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Encouraging and patient; provide individualized and extracurricular support for students that are struggling with learning concepts and mathematical topics. 
