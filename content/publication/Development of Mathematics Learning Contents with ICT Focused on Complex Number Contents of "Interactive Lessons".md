@@ -9,7 +9,6 @@ publication = "The publishing part of the citation goes here. You may use *Markd
 title = "Development of Mathematics Learning Contents with ICT Focused on Complex Number Contents of \"Interactive Lessons\""
 url_code = ""
 url_dataset = ""
-# url_pdf = "pdf/my-paper-name.pdf"
 url_pdf = ""
 url_project = ""
 url_slides = ""
