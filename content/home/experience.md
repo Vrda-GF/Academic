@@ -19,8 +19,8 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Lecturer"
-  company = "SUM"
+  title = "Math Lecturer"
+  company = "University of Mostar (SUM)"
   company_url = ""
   location = "Mostar, B&H"
   date_start = "2000-01-01"
@@ -34,7 +34,7 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "High school Math teacher"
+  title = "High School Math Teacher"
   company = "Gymnasium fra Grge Martića"
   company_url = ""
   location = "Mostar, B&H"
@@ -43,7 +43,7 @@ date_format = "January 2006"
   description = "High school teacher, Class teacher."
   
   [[experience]]
-  title = "Primary school Math & Physics teacher"
+  title = "Primary School Math & Physics Teacher"
   company = "Primary school kralja Zvonimira"
   company_url = ""
   location = "Seget, Croatia"
