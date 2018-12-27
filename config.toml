@@ -281,6 +281,7 @@ enableGitInfo = false
     icon = "researchgate"
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Anton_Vrdoljak2"
+    alt = "Anton Vrdoljak on ResearchGate"
 
   [[params.social]]
     icon = "github"
