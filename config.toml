@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "My Academic Corner"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -101,8 +101,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = ""
-  latitude = "43.346528"
-  longitude = "17.7961608"
+  latitude = "43.346691"
+  longitude = "17.796846"
   zoom = 15
 
   # SITE SETUP
