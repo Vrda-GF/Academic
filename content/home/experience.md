@@ -40,7 +40,7 @@ date_format = "January 2006"
   location = "Kralja Tomislava 9a, 88000 Mostar, Bosnia and Herzegovina"
   date_start = "1999-09-01"
   date_end = "2000-07-15"
-  description = """High school teacher, Class teacher."""
+  description = ""High school teacher, Class teacher.""
   
   [[experience]]
   title = "Primary school Math & Physics teacher"
@@ -49,6 +49,6 @@ date_format = "January 2006"
   location = "Hrvatskih žrtava 92, 21218 Seget, Republic of Croatia"
   date_start = "1998-09-01"
   date_end = "1999-03-01"
-  description = """Primary school teacher, Class teacher."""
+  description = ""Primary school teacher, Class teacher.""
 
 +++
