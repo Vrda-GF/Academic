@@ -35,18 +35,18 @@ date_format = "January 2006"
 
 [[experience]]
   title = "High school Math teacher"
-  company = "Gymnasium fra Grge Martića Mostar"
+  company = "Gymnasium fra Grge Martića"
   company_url = ""
-  location = "Kralja Tomislava 9a, 88000 Mostar, Bosnia and Herzegovina"
+  location = "Kralja Tomislava 9a, 88000 Mostar, B&H"
   date_start = "1999-09-01"
   date_end = "2000-07-15"
   description = "High school teacher, Class teacher."
   
   [[experience]]
   title = "Primary school Math & Physics teacher"
-  company = "Primary school kralja Zvonimira Seget Donji"
+  company = "Primary school kralja Zvonimira"
   company_url = ""
-  location = "Hrvatskih žrtava 92, 21218 Seget, Republic of Croatia"
+  location = "Hrvatskih žrtava 92, 21218 Seget, Croatia"
   date_start = "1998-09-01"
   date_end = "1999-03-01"
   description = "Primary school teacher, Class teacher."
