@@ -13,5 +13,5 @@ list_format = 3
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
-caption = "Development of Mathematics Learning Contents with ICT Focused on Complex Number Contents of "Interactive Lessons""
+caption = "Development of Mathematics Learning Contents with ICT Focused on Complex Number Contents of \"Interactive Lessons\""
 +++
