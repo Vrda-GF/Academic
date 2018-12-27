@@ -13,7 +13,7 @@ title = "My Academic Corner"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2018 by Anton Vrdoljak"
 
 theme = "academic"
 enableEmoji = true
@@ -46,7 +46,7 @@ enableGitInfo = false
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
-  extensions = ["backslashLineBreak"]
+  extensions = ["hardLineBreak"]
 
 [params]
   # AUTHOR SETUP
@@ -351,10 +351,6 @@ enableGitInfo = false
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
-  
-# Hard linebreaks
-[blackfriday]
-  extensions = ["hardLineBreak"]
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
