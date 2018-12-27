@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Mathematics"
   institution = "University of Sarajevo – Sarajevo, B&H"
-  year = –
+  year = ""
 
 [[education.courses]]
   course = "MSc in Mathematics Education"
