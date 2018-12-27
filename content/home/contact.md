@@ -11,7 +11,7 @@ subtitle = ""
 weight = 70
 
 # Automatically link email and phone?
-autolink = true
+autolink = false
 
 # Email form provider
 #   0: Disable email form
@@ -19,4 +19,3 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 +++
-
