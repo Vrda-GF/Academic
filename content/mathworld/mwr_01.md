@@ -1,1 +1,16 @@
-
++++
+abstract = "The objective of this paper is to report our developed contents, focusing on complex number contents of \"Interactive Lessons\", based on the advantage of learning with ICT, as well as improvement of student's activities."
+authors = ["A. Vrdoljak", "K. Aoyama", "H. Yahara", "M. Isoda"]
+date = "2006-08-10"
+image_preview = ""
+math = true
+publication_types = ["1"]
+publication = "Proceedings of the 30th annual meeting of JSSE (Japan Society for Science Education), pp. 265–266, Tsukuba, Japan, August 18–20, 2006"
+title = "Development of Mathematics Learning Contents with ICT: Focused on Complex Number Contents of \"Interactive Lessons\""
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
++++
