@@ -9,6 +9,7 @@ subtitle = "Free Math Resource"
 
 # Order that this section will appear in.
 weight = 60
+
 +++
 ## Resources:
 [Wolfram MathWorld: The Web's Most Extensive Mathematics Resource](http://mathworld.wolfram.com/)
