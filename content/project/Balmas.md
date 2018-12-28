@@ -13,6 +13,7 @@ summary = "BALMAS – BALlast Water MAnagement System for Adriatic Sea Protectio
   focal_point = "Smart"
 
 +++
+
 BALMAS – BALlast Water MAnagement System for Adriatic Sea Protection
 
 Project start date: 11/01/2013
