@@ -1,0 +1,16 @@
++++
+abstract = "For the numerical modeling of the structure it is necessary to know the characteristics of soil under the foundations, so that it can be simulated by the Winkler spring model. Five groups of authors give different expressions for the soil reaction coefficient. In this paper it will be presented the influence of that different coefficients on the simple 2D steel frame behavior. For that purpose the program package Tower 3D Model Builder is used. The SE_Calc software developed by the authors is used for finding the values of the soil reaction coefficients by the expressions of each author, as well as the average one."
+authors = ["V. Akmadzic", "A. Vrdoljak"]
+date = "2018-09-12"
+image_preview = ""
+math = true
+publication_types = ["1"]
+publication = "Proceedings of the 3rd International Conference on Engineering Sciences and Technologies, Technical University of Košice, Slovakia, September 12–14, 2018"
+title = "Influence of soil reaction coefficient on 2D steel frame behavior"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
++++
