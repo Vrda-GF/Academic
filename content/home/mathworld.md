@@ -14,3 +14,7 @@ weight = 60
 
 # Resources
 Wolfram MathWorld: The Web's Most Extensive Mathematics Resource(http://mathworld.wolfram.com/)
+
+Basic Math Worksheets:
+* {{% staticref "files/santa.pdf" "newtab" %}}Santa Claus{{% /staticref %}}
+* {{% staticref "files/parrot.pdf" "newtab" %}}Parrot{{% /staticref %}}
