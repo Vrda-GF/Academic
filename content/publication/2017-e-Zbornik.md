@@ -1,5 +1,5 @@
 +++
-abstract = "U radu je dan osvrt na programsko rješavanje problema vezanog za particioniranje grafa G = (V, E). Budući je to problem koji pripada klasi NP–teških problema odabrane su strategije iz domene heuristike za njegovo rješavanje. U tu svrhu napravljen je programski modul u softverskom paketu Microsoft Visual Studio 2015. Implementirani modul programski (heuristika) pronalazi sub–optimalna rješenja, a nerijetko i korektno optimalno rješenje MBCP problema korisničkog grafa u razumnom vremenu."
+abstract = "U radu je dan osvrt na programsko rješavanje problema vezanog za particioniranje grafa \-G = (V, E)\-. Budući je to problem koji pripada klasi NP–teških problema odabrane su strategije iz domene heuristike za njegovo rješavanje. U tu svrhu napravljen je programski modul u softverskom paketu Microsoft Visual Studio 2015. Implementirani modul programski (heuristika) pronalazi sub–optimalna rješenja, a nerijetko i korektno optimalno rješenje MBCP problema korisničkog grafa u razumnom vremenu."
 authors = ["M. prskalo", "A. Vrdoljak"]
 date = "2016-12-12"
 image_preview = ""
