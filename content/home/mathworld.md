@@ -17,7 +17,7 @@ weight = 60
 
 [MathPortal: calculators, formulas, lessons, tests and homework help](https://www.mathportal.org/)
 
-"""
+\n
 
 ## Basic Math Worksheets:
 * {{% staticref "files/santa.pdf" "newtab" %}}Santa Claus{{% /staticref %}}
