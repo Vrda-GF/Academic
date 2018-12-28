@@ -5,13 +5,6 @@ title = "Balmas"
 # Project summary to display on homepage.
 summary = "BALMAS – BALlast Water MAnagement System for Adriatic Sea Protection"
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-
 +++
 
 BALMAS – BALlast Water MAnagement System for Adriatic Sea Protection
