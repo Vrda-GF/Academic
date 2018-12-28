@@ -2,6 +2,7 @@
 abstract = "This paper provides an analysis of settlement of foundation plates using finite difference method, and is designed in the aim to prove how this method, implemented in our Matlab program code, will give results similar to those obtained with the finite element method, and to show that plate’ settlements are less dependent on the change of modulus of soil reaction."
 authors = ["M. Prskalo", "A. Vrdoljak"]
 date = "2016-10-26"
+doi = "10.2507/27th.daaam.proceedings.123"
 image_preview = ""
 math = true
 publication_types = ["1"]
