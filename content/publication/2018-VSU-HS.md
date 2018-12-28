@@ -1,12 +1,12 @@
 +++
-abstract = "For the numerical modeling of the structure it is necessary to know the characteristics of soil under the foundations, so that it can be simulated by the Winkler spring model. Five groups of authors give different expressions for the soil reaction coefficient. In this paper it will be presented the influence of that different coefficients on the simple 2D steel frame behavior. For that purpose the program package Tower 3D Model Builder is used. The SE_Calc software developed by the authors is used for finding the values of the soil reaction coefficients by the expressions of each author, as well as the average one."
-authors = ["V. Akmadzic", "A. Vrdoljak"]
-date = "2018-09-12"
+abstract = "The aim of the paper is to show the effects of modelling the soil reaction coefficient on the base grid structure and their foundation. That kind of the structure is commonly used for the objects built on the far away locations because of the little environmental ground impact. Basically, the shallow foundation system is supporting grid construction used as a base for building the object above. The grid construction itself can occur in two extreme forms known as rigid and soft grids. The test example process both forms and monitors their structural response as well as the contact with the underlying structure. For the purpose of the soil reaction coefficient modelling the Se_Calc programmatically solution was developed."
+authors = ["V. Akmadžić", "A. Vrdoljak", "H. Smoljanović"]
+date = "2018-10-18"
 image_preview = ""
 math = true
 publication_types = ["1"]
-publication = "Proceedings of the 3rd International Conference on Engineering Sciences and Technologies, Technical University of Košice, Slovakia, September 12–14, 2018"
-title = "Influence of soil reaction coefficient on 2D steel frame behavior"
+publication = "Proceedings of the 18th International Scientific Conference on Construction and Architecture, University of Structural Engineering & Architecture \"Lyuben Karavelov\", Sofia, Bulgaria, October 18–20, 2018"
+title = "Behaviour of the base grid structure regard to the soil reaction coefficient"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
