@@ -1,13 +1,18 @@
 +++
-abstract = "This paper provides an analysis of settlement of foundation plates using finite difference method, and is designed in the aim to prove how this method, implemented in our Matlab program code, will give results similar to those obtained with the finite element method, and to show that plate’ settlements are less dependent on the change of modulus of soil reaction."
-authors = ["M. Prskalo", "A. Vrdoljak"]
-date = "2016-10-26"
+abstract = "The aim of this paper is to present the influence of the subgrade reaction coefficient modelling on the simple 3D frame.
+For simplicity, it was assumed that the construction was made on the square foundations on granular soil. The soil reaction
+coefficient is modelled by different expressions drawn by different authors. For this reason different values of the
+coefficient were obtained. In order to observe the behaviour of these coefficients for each author curve families are
+created. They give us the relationship between the dimension of the square foundations and the value of the reaction
+coefficient. The paper then follows the response of the characteristic structural framework to these impacts."
+authors = ["V. Akmadzic", "A. Vrdoljak", "D. Ramljak"]
+date = "2018-10-24"
 image_preview = ""
 math = true
 publication_types = ["1"]
-publication = "Proceedings of the 27th DAAAM International Symposium, University of Mostar, Mostar, October 26–29, 2016"
+publication = "Proceedings of the 29th DAAAM International Symposium, Zadar, Croatia, October 24–27, 2018"
 selected = true
-title = "Analysis of settlement of foundation plates by finite difference method"
+title = "Influence of the subgrade reaction coefficient modelling on the simple 3D frame"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
@@ -17,4 +22,4 @@ url_video = ""
 +++
 ### DOI:
 
-https://doi.org/10.2507/27th.daaam.proceedings.123
+https://doi.org/10.2507/29th.daaam.proceedings.042
