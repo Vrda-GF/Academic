@@ -17,4 +17,5 @@ Wolfram MathWorld: The Web's Most Extensive Mathematics Resource(http://mathworl
 
 Basic Math Worksheets:
 * {{% staticref "files/santa.pdf" "newtab" %}}Santa Claus{{% /staticref %}}
+* {{% staticref "files/santa_HR.pdf" "newtab" %}}Djed Božićnjak{{% /staticref %}}
 * {{% staticref "files/parrot.pdf" "newtab" %}}Parrot{{% /staticref %}}
