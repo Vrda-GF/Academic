@@ -7,4 +7,4 @@ summary = "BALMAS – BALlast Water MAnagement System for Adriatic Sea Protectio
 
 +++
 
-###Summary
+BALMAS – BALlast Water MAnagement System for Adriatic Sea Protection
