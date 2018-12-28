@@ -5,15 +5,23 @@ title = "Balmas"
 # Project summary to display on homepage.
 summary = "BALMAS – BALlast Water MAnagement System for Adriatic Sea Protection"
 
+math = true
+
 +++
 
-BALMAS – BALlast Water MAnagement System for Adriatic Sea Protection
+###BALMAS – BALlast Water MAnagement System for Adriatic Sea Protection
 
-Project start date: 11/01/2013
+####Project start date:
 
-Project end date: 31/03/2016
+11/01/2013
 
-Status: Finished
+####Project end date:
+
+31/03/2016
+
+####Status:
+
+Finished
 
 ---
 
