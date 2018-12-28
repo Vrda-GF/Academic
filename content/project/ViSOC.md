@@ -11,6 +11,6 @@ ViSOC - the Graph Information Visualization Tool (for Windows)
 
 Project start date: 15/03/2010
 
-Project end date: 31/03/2016
+Project end date: -
 
 Status: Active
