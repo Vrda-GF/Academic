@@ -2,6 +2,7 @@
 # Project title.
 title = "ViSOC"
 
-ViSOC is the new Graph Information Visualization Tool (for Windows)
+# Project summary to display on homepage.
+summary = "ViSOC is the new Graph Information Visualization Tool (for Windows)"
 
 +++
