@@ -1,1 +1,5 @@
-###Adriascape
++++
+# Project title.
+title = "Adriascape"
+
++++
