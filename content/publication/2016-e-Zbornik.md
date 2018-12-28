@@ -1,6 +1,6 @@
 +++
 abstract = "Za kvalitetan proračun i pouzdano izvođenje temelja objekta potrebno je, između ostalog, riješiti interakciju objekta, temelja i tla tijekom svih faza izgradnje. Mehaničke osobine tla su vrlo složene i rješenje problema interakcije temeljnog tla sa elementima konstrukcije zahtjeva određena pojednostavljenja bez kojih bi problem bio nerješiv ili ekonomski neopravdan. Metoda konačnih razlika daje rezultate približne onima čiji je proračun izvršen pomoću programskog koda danog u radu i pokazuju da slijeganja ploče manje ovise o promjeni modula reakcije tla, te su i maksimalne vrijednosti tih slijeganja manje od onih za temeljnu stopu. Navedene prednosti i redukcija diferencijalnih slijeganja su najčešći razlozi izbora temeljne ploče kao načina temeljenja objekta."
-authors = ["M. prskalo", "A. Vrdoljak"]
+authors = ["M. Prskalo", "A. Vrdoljak"]
 date = "2016-12-12"
 image_preview = ""
 math = true
