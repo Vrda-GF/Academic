@@ -1,12 +1,12 @@
 +++
-abstract = "The aim of the paper is to show the effects of modelling the soil reaction coefficient on the base grid structure and their foundation. That kind of the structure is commonly used for the objects built on the far away locations because of the little environmental ground impact. Basically, the shallow foundation system is supporting grid construction used as a base for building the object above. The grid construction itself can occur in two extreme forms known as rigid and soft grids. The test example process both forms and monitors their structural response as well as the contact with the underlying structure. For the purpose of the soil reaction coefficient modelling the Se_Calc programmatically solution was developed."
-authors = ["V. Akmadžić", "A. Vrdoljak", "H. Smoljanović"]
+abstract = "When performing the objects on the distant locations, it is necessary to make the foundation structure with as little ground impact as possible. One of the usual choices is the rigid steel grid construction on the shallow foundations. Many authors worked on the problem of defining calculation expression for the soil reaction coefficient, which represents the behaviour of the ground. In the programmatically solution called SE_Calc values of the soil reaction coefficient are calculated by each author. The paper shows the effects of different modelling of the soil reaction coefficient on the steel grid structure, rigid or soft. The structural response and the contact with the soil are analysed."
+authors = ["V. Akmadžić", "A. Vrdoljak", "I. Balić"]
 date = "2018-10-18"
 image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "Proceedings of the 18th International Scientific Conference on Construction and Architecture, University of Structural Engineering & Architecture \"Lyuben Karavelov\", Sofia, Bulgaria, October 18–20, 2018"
-title = "Behaviour of the base grid structure regard to the soil reaction coefficient"
+title = "Influence of the soil reaction coefficient change on the steel grid foundation"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
