@@ -1,6 +1,6 @@
 +++
 # MathWorld widget.
-widget = "mathworld"
+widget = "custom"
 active = true
 date = 2018-12-28T09:20:00
 
