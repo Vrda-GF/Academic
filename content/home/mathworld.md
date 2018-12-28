@@ -11,6 +11,6 @@ subtitle = "Free Math Resource"
 weight = 60
 
 # Resources
-Wolfram MathWorld: The Web's Most Extensive Mathematics Resource
+Wolfram MathWorld: The Web's Most Extensive Mathematics Resource(http://mathworld.wolfram.com/)
 
 +++
