@@ -1,12 +1,12 @@
 +++
-abstract = "The objective of this paper is to report my educational research project based on the advantage of learning and teaching with ICT, focusing on teaching of complex numbers. Some examples of motivational impacts of ICT existed already within a wide literature on educational uses and outcomes of ICT in classrooms, as well as out of school settings. The project was designed to build on such models and investigate the issues in more detail, and to explore ways to enhance motivational impacts and outcomes."
+abstract = "A new and advanced visualization for polynomial regression data fit is presented. The visualization based on Flash - an advanced multimedia authoring and development environment for creating animations and interactive applications inside Web pages - willpresent a model for better understanding of curve fitting. This model ensures to engineering students, as well as other researchers, an interactive explanations which helps them to achieve some main learning goals: how the range and uncertainty and number of data points affect correlation coefficient, or how correlation coefficient and chi squared can be used to indicate how well a curve describes the data relationship. Another objective of this paper is to explore the ways to enhance motivational impact and outcomes of such Web - based learning activities."
 authors = ["A. Vrdoljak"]
-date = "2009-06-22"
+date = "2011-05-19"
 image_preview = ""
 math = true
 publication_types = ["1"]
-publication = "Proceedings of the 3rd Nordic EWM Summer School for PhD Students in Mathematics, University of Turku, Turku, Finland, June 22–27, 2009"
-title = "Implementation models of ICT in teaching of complex numbers"
+publication = "Proceedings of the 1st International Balkans Conference on Challenges of Civil Engineering, EPOKA University, Tirana, Albania, May 19–21, 2011"
+title = "Advanced Visualization for Polynomial Regression Data Fit"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
