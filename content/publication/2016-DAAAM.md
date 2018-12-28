@@ -6,6 +6,7 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "Proceedings of the 27th DAAAM International Symposium, University of Mostar, Mostar, October 26–29, 2016"
+selected = true
 title = "Analysis of settlement of foundation plates by finite difference method"
 url_code = ""
 url_dataset = ""
