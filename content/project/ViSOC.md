@@ -14,3 +14,5 @@ Project start date: 15/03/2010
 Project end date: -
 
 Status: Active
+
+Last stable version: v2.09 (Sep 2018)
