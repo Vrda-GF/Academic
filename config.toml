@@ -321,7 +321,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "MathWorld"
-  url = "#math_world"
+  url = "#mathworld"
   weight = 4
 
 [[menu.main]]
