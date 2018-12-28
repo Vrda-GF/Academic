@@ -13,13 +13,12 @@ weight = 60
 +++
 
 ## Resources:
-
 [Wolfram MathWorld: The Web's Most Extensive Mathematics Resource](http://mathworld.wolfram.com/)
 
 [MathPortal: calculators, formulas, lessons, tests and homework help](https://www.mathportal.org/)
 \\
 \\
-Basic Math Worksheets:
+## Basic Math Worksheets:
 * {{% staticref "files/santa.pdf" "newtab" %}}Santa Claus{{% /staticref %}}
 * {{% staticref "files/santa_HR.pdf" "newtab" %}}Djed Božićnjak{{% /staticref %}}
 * {{% staticref "files/parrot.pdf" "newtab" %}}Parrot{{% /staticref %}}
