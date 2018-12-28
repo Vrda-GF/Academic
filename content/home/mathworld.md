@@ -16,8 +16,9 @@ weight = 60
 [Wolfram MathWorld: The Web's Most Extensive Mathematics Resource](http://mathworld.wolfram.com/)
 
 [MathPortal: calculators, formulas, lessons, tests and homework help](https://www.mathportal.org/)
-\\
-\\
+
+## ---
+
 ## Basic Math Worksheets:
 * {{% staticref "files/santa.pdf" "newtab" %}}Santa Claus{{% /staticref %}}
 * {{% staticref "files/santa_HR.pdf" "newtab" %}}Djed Božićnjak{{% /staticref %}}
