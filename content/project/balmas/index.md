@@ -18,6 +18,7 @@ Status: Finished
 ---
 
 Project category: IPA - Instrument for Pre-Accession assistance
+The project is co-funded by the European Union
 
 Grant awarded: 225.035,20 (total project budget: 7.157.158,11) EUR
 
