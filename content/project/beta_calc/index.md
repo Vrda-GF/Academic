@@ -1,7 +1,7 @@
 +++
 
 # Project title.
-title = "BetaCalc & kCalc"
+title = "βCalc & kCalc"
 
 # Project summary to display on homepage.
 summary = "βCalc – the Advanced Visualization Tool for Buckling Calculation"
