@@ -1,5 +1,0 @@
-+++
-# Project title.
-title = "Adriascape"
-
-+++
