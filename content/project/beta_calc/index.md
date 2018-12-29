@@ -1,7 +1,7 @@
 +++
 
 # Project title.
-title = "βCalc & kCalc"
+title = "BetaCalc & kCalc"
 
 # Project summary to display on homepage.
 summary = "βCalc – the Advanced Visualization Tool for Buckling Calculation"
@@ -18,7 +18,7 @@ summary = "βCalc – the Advanced Visualization Tool for Buckling Calculation"
 
 +++
 
-Beta Calc – the Advanced Visualization Tool for Buckling Calculation
+βCalc – the Advanced Visualization Tool for Buckling Calculation
 
 kCalc - the Advanced Visualization Tool for Subgrade Reaction Calculation
 
