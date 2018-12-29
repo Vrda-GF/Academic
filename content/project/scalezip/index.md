@@ -3,6 +3,7 @@
 # Project title.
 title = "ScaleZip"
 
-Selector of amino-acid scales set
+# Project summary to display on homepage.
+summary = ScaleZip - The Software for selecting of Amino-Acid Scales Set
 
 +++
