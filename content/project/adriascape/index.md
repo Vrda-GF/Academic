@@ -32,6 +32,6 @@ Project category: IPA - Instrument for Pre-Accession assistance
 
 Interreg IPA Cross-border Cooperation Programme Croatia-Bosnia and Herzegovina-Montenegro 2014-2020
 
-Priority axes: PA3 - Contributing to the development of tourism and preserving cultural and natural heritage
+Priority axis: PA3 - Contributing to the development of tourism and preserving cultural and natural heritage
 
 More information: http://www.interreg-hr-ba-me2014-2020.eu/
