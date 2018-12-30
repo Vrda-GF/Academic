@@ -41,4 +41,4 @@ Motivating and talented math lecturer driven to inspire students to pursue acade
 
 Encouraging and patient; provide individualized and extracurricular support for both high school & university students, that are struggling with learning concepts and mathematical topics.
 
-Proactive researcher with .
+A proactive researcher with the interest for the math education, algorithms and applications.
