@@ -33,7 +33,7 @@ function myMap() {
     var marker = new google.maps.Marker({ 
       position: pos, 
       map: map,
-      icon: "http://www2008.gf.sve-mo.ba/osiguranje-kvalitete/images/OKGF_marker.png" 
+      icon: 'http://www2008.gf.sve-mo.ba/osiguranje-kvalitete/images/OKGF_marker.png'
     }); 
 }
 </script>
