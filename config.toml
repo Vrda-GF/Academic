@@ -101,6 +101,7 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = "AIzaSyBtwl48LQbrdx0oB0tS1Yo8ZKqjMVW5c24"
+  icon = "http://www2008.gf.sve-mo.ba/osiguranje-kvalitete/images/OKGF_marker.png"
   latitude = "43.346580"
   longitude = "17.796784"
   zoom = 15
