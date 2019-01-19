@@ -279,6 +279,11 @@ enableGitInfo = false
     link = "https://scholar.google.com/citations?user=-WuiWI0AAAAJ&hl=en"
     
   [[params.social]]
+    icon = "linkedin-in"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/anton-vrdoljak-3a27227/"
+    
+  [[params.social]]
     icon = "researchgate"
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Anton_Vrdoljak2"
