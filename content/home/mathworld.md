@@ -29,3 +29,5 @@ weight = 60
 
 ## Play SUDOKU:
 ![Sudoku](/img/sudoku.png)
+
+<iframe src="http://www.sudoweb.com/free-webmaster.php?tail=&coulbody=&coulinner=&couldonn=&coulcadre=&coulrep=" frameborder="0"  width="460" height="460" scrolling="no"></iframe>
