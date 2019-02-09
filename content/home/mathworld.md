@@ -28,4 +28,4 @@ weight = 60
 ## ---
 
 ## Play SUDOKU:
-![Sudoku](/img/sudoku.png)
+![Sudoku](/img/sudoku.png#floatright)
