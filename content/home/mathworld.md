@@ -26,3 +26,5 @@ weight = 60
 * {{% staticref "files/parrot.pdf" "newtab" %}}Parrot{{% /staticref %}}
 
 ## ---
+
+## Play SUDOKU:
