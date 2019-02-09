@@ -28,4 +28,5 @@ weight = 60
 ## ---
 
 ![Sudoku](/img/sudoku.png)
-[Play ](https://www.livesudoku.com)
+
+[Play Online Sudoku](https://www.livesudoku.com)
