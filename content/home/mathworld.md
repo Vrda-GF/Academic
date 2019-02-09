@@ -28,4 +28,4 @@ weight = 60
 ## ---
 
 ## Play SUDOKU:
-<iframe src="http://www.sudoweb.com/free-webmaster.php?tail=&coulbody=FFFFFF&coulinner=CCCCCC&couldonn=09005E&coulcadre=000000&coulrep=3F1C99" frameborder="0"  width="460" height="460" scrolling="no"></iframe><noscript>[Sudoku](http://www.sudoweb.com/)</noscript>
+<iframe src="http://www.sudoweb.com/free-webmaster.php?tail=&coulbody=FFFFFF&coulinner=CCCCCC&couldonn=09005E&coulcadre=000000&coulrep=3F1C99" frameborder="0"  width="460" height="460" scrolling="no"></iframe>
