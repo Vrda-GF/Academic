@@ -27,6 +27,6 @@ weight = 60
 
 ## ---
 
-![Sudoku](/img/sudoku.png)
+![Sudoku](https://raw.githubusercontent.com/Vrda-GF/Academic/master/static/img/sudoku.png)
 
 [Play Online Sudoku](https://www.livesudoku.com)
