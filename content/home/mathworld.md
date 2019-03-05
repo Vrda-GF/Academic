@@ -30,3 +30,7 @@ weight = 60
 ![Sudoku](https://raw.githubusercontent.com/Vrda-GF/Academic/master/static/img/sudoku.png)
 
 [Play Online Sudoku](https://www.livesudoku.com)
+
+![Stacks Of Coins (SoC)](https://raw.githubusercontent.com/Vrda-GF/SoC/master/static/img/SoCmain.png)
+
+[Download SoC (as compressed file)](https://raw.githubusercontent.com/Vrda-GF/SoC/master/static/files/SoC.zip)
