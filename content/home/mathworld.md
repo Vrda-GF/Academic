@@ -5,7 +5,7 @@ active = true
 date = 2018-12-28T09:20:00
 
 title = "MathWorld"
-subtitle = "Free Math Resource\nMarh Games for FREE"
+subtitle = "Free Math Resource\\Math Games for FREE"
 
 # Order that this section will appear in.
 weight = 60
