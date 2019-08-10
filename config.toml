@@ -285,7 +285,7 @@ enableGitInfo = false
   
   [[params.social]]
     icon = "linkedin-in"
-    icon_pack = "fab"
+    icon_pack = "ai"
     link = "https://www.linkedin.com/in/anton-vrdoljak/"
     
   [[params.social]]
