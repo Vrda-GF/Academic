@@ -13,5 +13,8 @@ url_pdf = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+[[url_custom]]
+name = "Paper on HRČAK portal"
+url = "https://hrcak.srce.hr/222493"
 
 +++
