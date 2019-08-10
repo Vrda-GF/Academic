@@ -8,6 +8,7 @@ publication_types = ["2"]
 publication = "e-Zbornik: Electronic collection of papers of the Faculty of Civil Engineering, Vol. 8 No. 15"
 title = "Determination of the soil reaction coefficient value – software solution"
 url_code = ""
+url_custom = [{name = "Paper on HRČAK portal", url = "https://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=299942"}, {name = "Paper on e-ZBORNIK", url = "http://e-zbornik.gf.sum.ba/en/archive-en/e-zbornik-no-15/53-determination-of-the-soil-reaction-coefficient-value-%E2%80%93-software-solution"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
