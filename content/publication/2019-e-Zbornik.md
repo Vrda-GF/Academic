@@ -13,10 +13,4 @@ url_pdf = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-links:
-  - icon_pack: fab
-    icon: medium
-    name: HRČAK portal
-    url: 'https://hrcak.srce.hr/222493'
-
 +++
