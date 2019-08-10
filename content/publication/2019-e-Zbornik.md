@@ -2,6 +2,7 @@
 abstract = "U ovom radu prikazan je kraći osvrt na fraktale, te neke moguće primjene fraktalne geometrije u arhitekturi i građevinarstvu. Zanimanje za ovom matematičkom disciplinom je u neprekidnom rastu još od kraja 20. stoljeća, kako zbog same očaravajuće ljepote fraktala, tako i zbog općeprihvaćene spoznaje da je dosta oblika u prirodi, ako ne i svi, nepravilno i neravno, odnosno kaotično (priroda je fraktalna). Fraktalna geometrija, nasuprot euklidskoj, nudi znatno bolje metode za opisivanje prirodnih objekata, te samim time i za postizanje harmonije sa prirodom, tj. sklada između izrazite preciznosti i kaotične nesavršenosti."
 authors = ["A. Vrdoljak", "K. Miletić"]
 date = "2019-06-26"
+HRČAK portal = "https://hrcak.srce.hr/222493"
 image_preview = ""
 math = true
 publication_types = ["2"]
