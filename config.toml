@@ -284,7 +284,7 @@ enableGitInfo = false
     link = "http://orcid.org/0000-0002-0559-0981"
   
   [[params.social]]
-    icon = "fa-linkedinin"
+    icon = "fa-linkedin"
     icon_pack = "fab"
     link = "https://www.linkedin.com/in/anton-vrdoljak/"
     
