@@ -8,10 +8,15 @@ publication_types = ["2"]
 publication = "e-Zbornik: Electronic collection of papers of the Faculty of Civil Engineering, Vol. 9 No. 17"
 title = "Načela fraktalne geometrije i primjene u arhitekturi i građevinarstvu"
 url_code = ""
-url_custom = "https://hrcak.srce.hr/222493"
+url_dataset = ""
 url_pdf = ""
 url_project = ""
 url_slides = ""
 url_video = ""
+links:
+  - icon_pack: fab
+    icon: medium
+    name: HRČAK portal
+    url: 'https://hrcak.srce.hr/222493'
 
 +++
