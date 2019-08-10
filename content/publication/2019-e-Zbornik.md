@@ -16,5 +16,8 @@ url_video = ""
 [[url_custom]]
 name = "Paper on HRČAK portal"
 url = "https://hrcak.srce.hr/222493"
+[[url_custom]]
+name = "Paper on e-Zbornik"
+url = "http://e-zbornik.gf.sum.ba/209-na%C4%8Dela-fraktalne-geometrije-i-primjene-u-arhitekturi-i-gra%C4%91evinarstvu"
 
 +++
