@@ -9,6 +9,7 @@ publication = "e-Zbornik: Electronic collection of papers of the Faculty of Civi
 title = "Principles of fractal geometry and applications in architecture and civil engineering"
 url_code = ""
 url_custom = [{name = "Paper on HRČAK portal", url = "https://hrcak.srce.hr/222493"}]
+url_custom = [{name = "Paper on e-ZBORNIK", url = "http://e-zbornik.gf.sum.ba/en/219-principles-of-fractal-geometry-and-applications-in-architecture-and-civil-engineering"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
