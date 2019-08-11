@@ -8,6 +8,7 @@ publication_types = ["2"]
 publication = "e-Zbornik: Electronic collection of papers of the Faculty of Civil Engineering, Vol. 6 No. 12"
 title = "Analiza slijeganja temeljnih ploča metodom konačnih razlika"
 url_code = ""
+url_custom = [{name = "Paper on e-ZBORNIK", url = "http://e-zbornik.gf.sum.ba/arhiva-n/e-zbornik-12-broj/87-analiza-slijeganja-temeljnih-plo%C4%8Da-metodom-kona%C4%8Dnih-razlika"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
