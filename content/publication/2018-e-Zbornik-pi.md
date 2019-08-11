@@ -8,6 +8,7 @@ publication_types = ["2"]
 publication = "e-Zbornik: Electronic collection of papers of the Faculty of Civil Engineering, Vol. 8 Special Edition"
 title = "Osvrt na nazivlje tradicijskih alata u obradi kamena na području Hercegovine"
 url_code = ""
+url_custom = [{name = "Paper on HRČAK portal", url = "https://hrcak.srce.hr/206589"}, {name = "Paper on e-ZBORNIK", url = "http://e-zbornik.gf.sum.ba/arhiva-n/posebno-izdanje,-rujan-2018/12-osvrt-na-nazivlje-tradicijskih-alata-u-obradi-kamena-na-podru%C4%8Dju-hercegovine"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
