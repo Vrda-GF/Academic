@@ -8,7 +8,7 @@ publication_types = ["2"]
 publication = "e-Zbornik: Electronic collection of papers of the Faculty of Civil Engineering, Vol. 5 No. 10"
 title = "Discrete mathematics and its applications in network analysis"
 url_code = ""
-url_custom = [{name = "Paper on e-ZBORNIK", url = "http://e-zbornik.gf.sum.ba/images/radovi//e_zbornik_10_05.pdf"}]
+url_custom = [{name = "Paper on e-ZBORNIK", url = "http://e-zbornik.gf.sum.ba/arhiva-n/e-zbornik-10-broj/105-discrete-mathematics-and-its-applications-in-network-analysis"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
