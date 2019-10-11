@@ -8,7 +8,7 @@ publication_types = ["2"]
 publication = "e-Zbornik: Electronic collection of papers of the Faculty of Civil Engineering, Vol. 7 No. 14"
 title = "Programsko pronalaženje rješenja MBCP problema (Programmatically solution for MBCP problems)"
 url_code = ""
-url_custom = [{name = "Paper on HRČAK portal", url = "https://hrcak.srce.hr/199733"}, {name = "Paper on e-ZBORNIK", url = "http://e-zbornik.gf.sum.ba/arhiva-n/e-zbornik-no-14/68-programsko-pronala%C5%BEenje-rje%C5%A1enja-mbcp-problema"}]
+url_custom = [{name = "Article on HRČAK portal", url = "https://hrcak.srce.hr/199733"}, {name = "Article on e-ZBORNIK", url = "http://e-zbornik.gf.sum.ba/arhiva-n/e-zbornik-no-14/68-programsko-pronala%C5%BEenje-rje%C5%A1enja-mbcp-problema"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
