@@ -8,7 +8,7 @@ publication_types = ["2"]
 publication = "e-Zbornik: Electronic collection of papers of the Faculty of Civil Engineering, Vol. 8 No. 15"
 title = "Određivanje vrijednosti koeficijenta reakcije tla – programsko rješenje"
 url_code = ""
-url_custom = [{name = "Paper on HRČAK portal", url = "https://hrcak.srce.hr/203800"}, {name = "Paper on e-ZBORNIK", url = "http://e-zbornik.gf.sum.ba/arhiva-n/e-zbornik-15-broj/43-odre%C4%91ivanje-vrijednosti-koeficijenta-reakcije-tla-%E2%80%93-programsko-rje%C5%A1enje"}]
+url_custom = [{name = "Article on HRČAK portal", url = "https://hrcak.srce.hr/203800"}, {name = "Article on e-ZBORNIK", url = "http://e-zbornik.gf.sum.ba/arhiva-n/e-zbornik-15-broj/43-odre%C4%91ivanje-vrijednosti-koeficijenta-reakcije-tla-%E2%80%93-programsko-rje%C5%A1enje"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
