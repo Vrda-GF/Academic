@@ -289,6 +289,12 @@ enableGitInfo = false
     link = "https://www.linkedin.com/in/anton-vrdoljak/"
     
   [[params.social]]
+    icon = "academia"
+    icon_pack = "ai"
+    link = "https://gfmo.academia.edu/AntonVrdoljak"
+    title = "Anton Vrdoljak on Academia.edu"
+    
+  [[params.social]]
     icon = "researchgate"
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Anton_Vrdoljak2"
