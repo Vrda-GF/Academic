@@ -277,6 +277,7 @@ enableGitInfo = false
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.com/citations?user=-WuiWI0AAAAJ&hl=en"
+    title = "Visit me on Google Scholar"
   
   [[params.social]]
     icon = "orcid"
@@ -288,11 +289,11 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://www.linkedin.com/in/anton-vrdoljak/"
     
-  [[params.social]]
-    icon = "academia"
-    icon_pack = "ai"
-    link = "https://gfmo.academia.edu/AntonVrdoljak"
-    title = "Anton Vrdoljak on Academia.edu"
+  #[[params.social]]
+  #  icon = "academia"
+  #  icon_pack = "ai"
+  # link = "https://gfmo.academia.edu/AntonVrdoljak"
+  #  title = "Anton Vrdoljak on Academia.edu"
     
   [[params.social]]
     icon = "researchgate"
