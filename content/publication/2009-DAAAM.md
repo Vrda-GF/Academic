@@ -8,6 +8,7 @@ publication_types = ["1"]
 publication = "Annals of DAAAM & Proceedings, DAAAM International Vienna, Vienna, Austria, December, 2009"
 title = "Evaluating the effectiveness of the implemented models of ICT tools in teaching mathematics"
 url_code = ""
+url_custom = [{name = "Paper on ResearchGate", url = "https://www.researchgate.net/publication/326698206_Evaluating_the_effectiveness_of_the_implemented_models_of_ICT_tools_in_teaching_mathematics"}, {name = "Paper in Proceedings", url = "https://www.thefreelibrary.com/Annals+of+DAAAM+%26+Proceedings/2009/January/1-p52797%C2%A61"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
