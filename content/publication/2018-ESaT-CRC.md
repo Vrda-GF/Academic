@@ -8,6 +8,7 @@ publication_types = ["1"]
 publication = "Advances and Trends in Engineering Sciences and Technologies III: Proceedings of the 3rd International Conference on Engineering Sciences and Technologies (ESaT 2018)"
 title = "Behavior of the 2D frames for different approach to soil modeling"
 url_code = ""
+url_custom = [{name = "Paper on ResearchGate", url = "https://www.researchgate.net/publication/332447654_Behavior_of_the_2D_frames_for_different_approach_to_soil_modeling"}, {name = "Paper in Proceedings", url = "https://www.crcpress.com/Advances-and-Trends-in-Engineering-Sciences-and-Technologies-III-Proceedings/Ali-Platko/p/book/9780367075095"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
