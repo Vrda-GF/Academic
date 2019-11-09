@@ -8,6 +8,7 @@ publication_types = ["1"]
 publication = "Proceedings of the 9th International Symposium INFOTEH-JAHORINA, University of East Sarajevo, Faculty of Electrical Engineering, Jahorina, RS, B&H, March 17–19, 2010"
 title = "Ekstrakcija svojstava podataka, predstavljanje i otkrivanje znanja u kontekstu multimedia data mining (Data feature extraction, presentation and discovery of knowledge in the context of multimedia data mining)"
 url_code = ""
+url_custom = [{name = "Paper on ResearchGate", url = "https://www.researchgate.net/publication/326546025_EKSTRAKCIJA_SVOJSTAVA_PODATAKA_PREDSTAVLJANJE_I_OTKRIVANJE_ZNANJA_U_KONTEKSTU_MULTIMEDIA_DATA_MINING_DATA_FEATURE_EXTRACTION_PRESENTATION_AND_DISCOVERY_OF_KNOWLEDGE_IN_THE_CONTEXT_OF_MULTIMEDIA_DATA_M"}, {name = "Paper in Proceedings", url = "https://www.infoteh.rs.ba/zbornik/2010/radovi.html"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
