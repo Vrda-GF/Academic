@@ -8,6 +8,7 @@ publication_types = ["1"]
 publication = "Proceedings of the 8th International Symposium INFOTEH-JAHORINA, University of East Sarajevo, Faculty of Electrical Engineering, Jahorina, RS, B&H, March 18–20, 2009"
 title = "Digitalni alati u nastavi interaktivne geometrije (Digital tools for teaching interactive geometry)"
 url_code = ""
+url_custom = [{name = "Paper on ResearchGate", url = "https://www.researchgate.net/publication/326698359_DIGITALNI_ALATI_U_NASTAVI_INTERAKTIVNE_GEOMETRIJE_DIGITAL_TOOLS_FOR_TEACHING_INTERACTIVE_GEOMETRY"}, {name = "Paper in Proceedings", url = "https://infoteh.etf.ues.rs.ba/zbornik/2009/rad.htm"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
