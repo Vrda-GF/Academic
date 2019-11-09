@@ -8,6 +8,7 @@ publication_types = ["1"]
 publication = "Proceedings of the 9th International Symposium INFOTEH-JAHORINA, University of East Sarajevo, Faculty of Electrical Engineering, Jahorina, RS, B&H, March 17–19, 2010"
 title = "Multi–agentni sistemi za analizu interakcija u nastavi i učenja (Multi–agent systems for the analysis of teaching interaction and learning)"
 url_code = ""
+url_custom = [{name = "Paper on ResearchGate", url = "https://www.researchgate.net/publication/266490880_MULTI-AGENTNI_SISTEMI_ZA_ANALIZU_INTERAKCIJA_U_NASTAVI_I_UCENJA_MULTI-AGENT_SYSTEMS_FOR_THE_ANALYSIS_OF_TEACHING_INTERACTION_AND_LEARNING"}, {name = "Paper in Proceedings", url = "https://www.infoteh.rs.ba/zbornik/2010/radovi.html"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
