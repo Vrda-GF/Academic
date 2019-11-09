@@ -8,6 +8,7 @@ publication_types = ["1"]
 publication = "Proceedings of the 18th International Symposium INFOTEH-JAHORINA, University of East Sarajevo, Faculty of Electrical Engineering, Jahorina, RS, B&H, March 20–22, 2019"
 title = "Improvement of students’ engineering skills in numerical modelling of the structural systems"
 url_code = ""
+url_custom = [{name = "Paper on ResearchGate", url = "https://www.researchgate.net/publication/332621758_Improvement_of_students_engineering_skills_in_numerical_modelling_of_the_structural_systems"}, {name = "Paper in Proceedings", url = "https://infoteh.etf.ues.rs.ba/zbornik/2019/#papers"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
