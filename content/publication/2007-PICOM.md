@@ -8,6 +8,7 @@ publication_types = ["1"]
 publication = "Proceedings of the First Petra International Conference on Mathematics, PICOM 2007, Al–Hussein Bin Talal University, Ma'an, Jordan"
 title = "Learning portal: MATHEMATICS ONLINE"
 url_code = ""
+url_custom = [{name = "Paper on ResearchGate", url = "https://www.researchgate.net/publication/329844900_LEARNING_PORTAL_MATHEMATICS_ONLINE"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
