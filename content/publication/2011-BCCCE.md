@@ -8,6 +8,7 @@ publication_types = ["1"]
 publication = "Proceedings of the 1st International Balkans Conference on Challenges of Civil Engineering, EPOKA University, Tirana, Albania, May 19–21, 2011"
 title = "Advanced Visualization for Polynomial Regression Data Fit"
 url_code = ""
+url_custom = [{name = "Paper on ResearchGate", url = "https://www.researchgate.net/publication/326546019_Advanced_Visualization_for_Polynomial_Regression_Data_Fit"}, {name = "Paper in Proceedings", url = "http://dspace.epoka.edu.al/handle/1/458"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
