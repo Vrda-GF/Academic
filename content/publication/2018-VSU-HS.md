@@ -8,6 +8,7 @@ publication_types = ["1"]
 publication = "Proceedings of the 18th International Scientific Conference on Construction and Architecture, University of Structural Engineering & Architecture \"Lyuben Karavelov\", Sofia, Bulgaria, October 18–20, 2018"
 title = "Behaviour of the base grid structure regard to the soil reaction coefficient"
 url_code = ""
+url_custom = [{name = "Paper on ResearchGate", url = "https://www.researchgate.net/publication/328538538_BEHAVIOUR_OF_THE_BASE_GRID_STRUCTURE_REGARD_TO_THE_SOIL_REACTION_COEFFICIENT"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
