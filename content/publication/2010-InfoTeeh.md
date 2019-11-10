@@ -13,5 +13,7 @@ url_dataset = ""
 url_pdf = ""
 url_project = ""
 url_slides = ""
-url_video = ""
 +++
+### ISBN:
+
+99938-624-2-8
