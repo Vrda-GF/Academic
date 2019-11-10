@@ -8,6 +8,7 @@ publication_types = ["1"]
 publication = "Proceedings of the 18th International Scientific Conference on Construction and Architecture, University of Structural Engineering & Architecture \"Lyuben Karavelov\", Sofia, Bulgaria, October 18–20, 2018"
 title = "Influence of the soil reaction coefficient change on the steel grid foundation"
 url_code = ""
+url_custom = [{name = "Paper on ResearchGate", url = "https://www.researchgate.net/publication/328538381_INFLUENCE_OF_THE_SOIL_REACTION_COEFFICIENT_CHANGE_ON_THE_STEEL_GRID_FOUNDATION"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
