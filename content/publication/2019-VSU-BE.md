@@ -8,6 +8,7 @@ publication_types = ["1"]
 publication = "Proceedings of the 19th International Scientific Conference on Construction and Architecture, University of Structural Engineering & Architecture \"Lyuben Karavelov\", Sofia, Bulgaria, October 17–19, 2019"
 title = "Behaviour of the aluminium base grid structure in relation to the subgrade reaction coefficient"
 url_code = ""
+url_custom = [{name = "Paper on ResearchGate", url = "https://www.researchgate.net/publication/337167469_BEHAVIOUR_OF_THE_ALUMINIUM_BASE_GRID_STRUCTURE_IN_RELATION_TO_THE_SUBGRADE_REACTION_COEFFICIENT"}]
 url_dataset = ""
 url_pdf = ""
 url_project = ""
