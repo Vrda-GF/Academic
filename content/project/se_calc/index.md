@@ -16,4 +16,4 @@ Project end date: -
 
 Status: Active
 
-Last stable version: v1.10 (Jun 2018)
+Last stable version: v2.10 (Jan 2020)
