@@ -17,3 +17,7 @@ Project end date: -
 Status: Active
 
 Last stable version: v2.10 (Jan 2020)
+
+Download SE Calc as compressed file
+
+Download PID as compressed file
