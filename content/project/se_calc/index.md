@@ -18,6 +18,6 @@ Status: Active
 
 Last stable version: v2.10 (Jan 2020)
 
-Download SE Calc as compressed file
+Download [SE Calc as compressed file](https://raw.githubusercontent.com/Vrda-GF/Academic/master/static/files/SE_Calc.zip)
 
 Download PID as compressed file
