@@ -285,32 +285,32 @@ enableGitInfo = false
     link = "http://orcid.org/0000-0002-0559-0981"
   
   [[params.social]]
-    icon = "fab fa-linkedin"
-    icon_pack = "fab"
-    link = "https://www.linkedin.com/in/anton-vrdoljak/"
+    icon = "academia"
+    icon_pack = "ai"
+    link = "https://gfmo.academia.edu/AntonVrdoljak"
+    title = "Anton Vrdoljak on Academia.edu"
     
   [[params.social]]
     icon = "researchgate"
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Anton_Vrdoljak2"
     title = "Anton Vrdoljak on ResearchGate"
-
+  
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/Vrda-GF"
   
   [[params.social]]
-    icon = "academia"
-    icon_pack = "ai"
-    link = "https://gfmo.academia.edu/AntonVrdoljak"
-    title = "Anton Vrdoljak on Academia.edu"
-  
-  [[params.social]]
     icon = "fab fa-facebook"
     icon_pack = "fab"
     link = "https://www.facebook.com/anton.vrdoljak/"
     title = "Anton Vrdoljak on Facebook"
+  
+  [[params.social]]
+    icon = "fab fa-linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/anton-vrdoljak/"
   
   [[params.social]]
     icon = "fab fa-youtube"
