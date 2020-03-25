@@ -311,7 +311,13 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://www.facebook.com/anton.vrdoljak/"
     title = "Anton Vrdoljak on Facebook"
-
+  
+  [[params.social]]
+    icon = "fab fa-youtube"
+    icon_pack = "fab"
+    link = "https://www.youtube.com/channel/UCEn-EhKOu4Sf7qViM3mgHkw"
+    title = "MathLectures Channel"
+  
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
