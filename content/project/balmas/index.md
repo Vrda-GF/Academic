@@ -34,4 +34,4 @@ The project is co-funded by the European Union
 
 Grant awarded: 225.035,20 (total project budget: 7.157.158,11) EUR
 
-More information: http://www.balmas.eu/
+More information: http://www.izvrs.si/project/bewater-making-society-an-active-participant-in-water-adaptation-to-global-change-2/?lang=en
