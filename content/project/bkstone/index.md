@@ -4,7 +4,7 @@
 title = "BK Stone"
 
 # Project summary to display on homepage.
-summary = "BK Stone – Higher Education–Enterprise platform for fostering, modernisation and sustainable growth in natural stone industry in Western Balkans"
+summary = "BK Stone – Higher Education–Enterprise platform for fostering..."
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
