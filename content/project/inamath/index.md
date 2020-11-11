@@ -28,10 +28,10 @@ Status: Active
 
 ---
 
-Project category: CBHE - Capacity Building in Higher Education
+Project category: Cooperation for innovation and the exchange of good practices
 
 The project is co-funded by the Erasmus+ Programme of the European Union
 
-Grant awarded: 197.050,00 (total project budget: 148.81 Mio) EUR
+Grant awarded: 197.050,00 (total project budget: 1.679.118,00) EUR
 
 More information: https://inamath.uniri.hr/
