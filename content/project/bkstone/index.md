@@ -32,6 +32,6 @@ Project category: CBHE - Capacity Building in Higher Education
 
 The project is co-funded by the Erasmus+ Programme of the European Union
 
-Grant awarded: 872.309,00 (total project budget: 7.157.158,11) EUR
+Grant awarded: 872.309,00 (total project budget: 148.81 Mio) EUR
 
 More information: https://bkstoneproject.com/
