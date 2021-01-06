@@ -13,7 +13,7 @@ title = "My Academic Corner"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018-2020 by Anton Vrdoljak"
+copyright = "&copy; 2018-2021 by Anton Vrdoljak"
 
 theme = "academic"
 enableEmoji = true
@@ -66,8 +66,8 @@ enableGitInfo = false
   email = "anton.vrdoljak@gf.sum.ba"
   address = "Matice hrvatske b.b., Mostar, 88000, B&H"
   office_hours = """
-  Tuesday 12:00 to 13:00\\
-  Thursday 15:00 to 16:00\\
+  Tuesday 11:00 to 12:00\\
+  Wednesday 11:00 to 12:00\\
   \\
   Otherwise email to book an appointment.
   \\
