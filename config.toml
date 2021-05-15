@@ -99,7 +99,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
+  map = 2
   map_api_key = "AIzaSyBtwl48LQbrdx0oB0tS1Yo8ZKqjMVW5c24"
   latitude = "43.346580"
   longitude = "17.796784"
@@ -301,6 +301,11 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://github.com/Vrda-GF"
   
+  [[params.social]]
+    icon = "fas fa-ghost"
+    icon_pack = "fas"
+    link = "https://scratch.mit.edu/users/Vrda/"
+    
   [[params.social]]
     icon = "fab fa-facebook"
     icon_pack = "fab"
