@@ -283,6 +283,7 @@ enableGitInfo = false
     icon = "orcid"
     icon_pack = "ai"
     link = "http://orcid.org/0000-0002-0559-0981"
+    title = "Visit me on ORCiD"
   
   [[params.social]]
     icon = "academia"
@@ -300,11 +301,13 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/Vrda-GF"
+    title = "Anton Vrdoljak on GitHub"
   
   [[params.social]]
     icon = "fas fa-ghost"
     icon_pack = "fas"
     link = "https://scratch.mit.edu/users/Vrda/"
+    title = "Play my game(s) on [Desk|Lap]top"
     
   [[params.social]]
     icon = "fab fa-facebook"
@@ -316,6 +319,7 @@ enableGitInfo = false
     icon = "fab fa-linkedin"
     icon_pack = "fab"
     link = "https://www.linkedin.com/in/anton-vrdoljak/"
+    title = "Anton Vrdoljak on LinkedIn"
   
   [[params.social]]
     icon = "fab fa-youtube"
