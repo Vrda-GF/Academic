@@ -13,7 +13,7 @@ title = "My Academic Corner"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018-2021 by Anton Vrdoljak"
+copyright = "&copy; 2018-2022 by Anton Vrdoljak"
 
 theme = "academic"
 enableEmoji = true
@@ -57,7 +57,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Mostar", url = "http://www.sum.ba/" }, { name = "Faculty of Civil Engineering", url = "http://gf.sum.ba/" } ]
+  organizations = [ { name = "University of Mostar", url = "http://www.sum.ba/" }, { name = "Faculty of Civil Engineering", url = "http://fgag.sum.ba/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "CV3_2017.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
