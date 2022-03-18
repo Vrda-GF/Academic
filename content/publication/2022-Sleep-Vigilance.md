@@ -7,6 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["2"]
 publication = "Sleep Vigilance (2022)"
+selected = true
 title = "Scientists Against War: A Plea to World Leaders for Better Governance"
 url_code = ""
 url_custom = [{name = "Article on Springer Link", url = "https://link.springer.com/article/10.1007/s41782-022-00198-0"}]
