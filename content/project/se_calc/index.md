@@ -16,7 +16,7 @@ Project end date: -
 
 Status: Active
 
-Last stable version: v2.10 (Apr 2020)
+Last stable version: v2.11 (Nov 2022)
 
 Download [SE Calc as compressed file](https://raw.githubusercontent.com/Vrda-GF/Academic/master/static/files/SE_Calc.zip)
 
