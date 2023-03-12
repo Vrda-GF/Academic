@@ -24,7 +24,7 @@ Project start date: 01/09/2020
 
 Project end date: 28/02/2023
 
-Status: Active
+Status: Finished
 
 ---
 
