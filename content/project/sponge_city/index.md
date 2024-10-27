@@ -18,7 +18,7 @@ summary = "SpongeCity – Improving urban climate change adaptation capacities..
 
 +++
 
-BK Stone – Improving urban climate change adaptation capacities by testing and promoting the „sponge city“ methodology on transnational level
+SpongeCity – Improving urban climate change adaptation capacities by testing and promoting the „sponge city“ methodology on transnational level
 
 Project start date: 01/01/2024
 
