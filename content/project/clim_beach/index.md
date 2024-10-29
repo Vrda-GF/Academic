@@ -4,7 +4,7 @@
 title = "ClimBeach"
 
 # Project summary to display on homepage.
-summary = "ClimBeach – Improving Coastal Areas Resilience to Climate Change Impacts and setting up Guidelines..."
+summary = "ClimBeach – Improving Coastal Areas Resilience to Climate Change Impacts and setting up Guidelines for Sustainable..."
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
