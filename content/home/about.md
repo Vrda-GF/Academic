@@ -37,8 +37,8 @@ weight = 5
 
 # Biography
 
-Motivating and talented math lecturer driven to inspire students to pursue academic and personal excellence. Flexible and organized professional with more than 20 years of teaching expertise on undergraduate and graduate levels, with an unparallel ability to explain complicated mathematical concepts in an easily understandable manner.
+Inspired math lecturer with over 25 years of teaching experience at both undergraduate and graduate levels, dedicated to making complex mathematical concepts easily understandable.
 
-Encouraging and patient; provide individualized and extracurricular support for both high school & university students, that are struggling with learning concepts and mathematical topics.
+I provide personalized support and extracurricular assistance to empower high school and university students who face challenges in their mathematical journey.
 
-A proactive researcher with the interest for the math, algorithms and applications.
+As a proactive researcher, I am deeply passionate about mathematics, algorithms, and their real-world applications.
