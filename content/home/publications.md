@@ -31,6 +31,7 @@ list_format = 0
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
+#  8: Doctoral dissertation
 publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
