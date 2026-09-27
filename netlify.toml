@@ -1,8 +1,8 @@
 [build]
   publish = "public"
-  command = "hugo"
+  command = "curl -sL https://github.com/gohugoio/hugo/releases/download/v0.50/hugo_extended_0.50_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz && tar -xzf /tmp/hugo.tar.gz -C /tmp && /tmp/hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.50"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+  
