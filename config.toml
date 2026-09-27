@@ -13,7 +13,7 @@ title = "My Academic Corner"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018-2022 by Anton Vrdoljak"
+copyright = "&copy; 2018-2026 by Anton Vrdoljak"
 
 theme = "academic"
 enableEmoji = true
